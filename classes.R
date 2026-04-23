@@ -1,3 +1,4 @@
+# https://telemost.yandex.ru/j/60103318045832
 # function vs method in Python
 # len() vs .append()
 
