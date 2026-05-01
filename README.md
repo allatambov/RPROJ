@@ -6,7 +6,8 @@
 
 **Теория 1.** Базовые типы, приведение типов, векторы и последовательности, конкатенация строк, матрицы.<br>
 **Практикум 1.** Cоздание датафрейма с нуля, построение столбиковой диаграммы.
-* Код с занятия [class01.R](), [practice01.R](), [видеозапись] занятия (по паролю)
+* Код с занятия [class01.R](https://github.com/allatambov/RPROJ/blob/main/class01.r), [practice01.R](https://github.com/allatambov/RPROJ/blob/main/practice01.R)
+* [Видеозапись](https://disk.yandex.ru/d/BaZ4mVTc2EZljw) занятия (доступна по паролю)
 
 ### Неделя 2. Основы программирования в R и базовые графики
 
@@ -17,8 +18,8 @@
 
 ### Итоги недель 1-2: теория
 
-* Теория в PDF [part-01.pdf](), исходный файл Sweave [part-01.Rnw]() (для свёрстывания требуется LaTeX)
-* Теория в Word, исходный файл RMarkdown [part-01.Rmd]()
+* Теория в PDF [part-01.pdf](https://github.com/allatambov/RPROJ/blob/main/part-01.pdf), исходный файл Sweave [part-01.Rnw](https://github.com/allatambov/RPROJ/blob/main/part-01.Rnw) (для свёрстывания требуется LaTeX)
+* Теория в Word [part-01.docx](https://github.com/allatambov/RPROJ/blob/main/part-01.docx), исходный файл RMarkdown [part-01.Rmd](https://github.com/allatambov/RPROJ/blob/main/part-01.Rmd)
 
 ### Неделя 3. Основы программирования в R и введение в Shiny
 
