@@ -54,17 +54,17 @@
 * Код с занятия: часть 2 (ggplot2) [practice05.R](https://github.com/allatambov/RPROJ/blob/main/practice05.r)
 * [Видеозапись](https://disk.yandex.ru/d/Q5BcUt3luWA_eQ) занятия (по паролю)
 
+### Итоги недели 5: теория
+
+* Данные для теории ([папка](https://disk.yandex.ru/d/ztNne9R8v_a2_g)) (по паролю)
+* Теория в PDF [Tidyverse-ggplot2.pdf](https://disk.yandex.ru/i/C0_DtdOuFh11Qw) (по паролю)
+
 ### Неделя 6. Проверка статистических гипотез и линейная регрессия в R
 
 **Теория 6.** Сравнение двух и более групп (статистические критерии), проверка нормальности.<br>
 **Практикум 6.** Построение линейной модели и проверка ее качества.<br>
 * Код с занятия [class06.R](https://github.com/allatambov/RPROJ/blob/main/class06.r)
 * [Видеозапись](https://disk.yandex.ru/d/n89dyLRFkm4xAQ) занятия (по паролю)
-
-### Итоги недель 5-6: теория
-
-* Данные для теории + доп теории ([папка](https://disk.yandex.ru/d/ztNne9R8v_a2_g)) (по паролю)
-* Теория в PDF [Tidyverse-ggplot2.pdf](https://disk.yandex.ru/i/C0_DtdOuFh11Qw) (по паролю)
 
 ### Неделя 7. Классы в R: теоретическое отступление
 
@@ -74,6 +74,8 @@
 
 ### Работа с данными: дополнительно
 
-* Работа с порядковыми и категориальными данными [Factors-and-forcats.pdf](https://disk.yandex.ru/i/XvTcFXaZ5z1Ybg) (по паролю)
+Данные ([папка](https://disk.yandex.ru/d/ztNne9R8v_a2_g)) (по паролю)
+
+* Работа с порядковыми и категориальными данными [Factors-and-forcats.pdf](https://disk.yandex.ru/i/XvTcFXaZ5z1Ybg)
 * Работа с пропущенными значениями (TBA)
 * Разведывательный анализ данных (TBA)
