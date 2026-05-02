@@ -14,7 +14,7 @@
 **Теория 2.** Векторизованные операции и функция `apply()`, поименованные векторы, списки. Цикл `for`. <br>
 **Практикум 2.1.** Построение столбиковой диаграммы: продолжение.<br>
 **Практикум 2.2.** Чтение и обработка CSV-файлов в цикле, построение линейного графика.
-* Код с занятия [class02.R](https://github.com/allatambov/RPROJ/blob/main/class02.r), [practice02-01.R](https://github.com/allatambov/RPROJ/blob/main/practice02-01.R), [practice02-02.R](https://github.com/allatambov/RPROJ/blob/main/practice02-02.R),
+* Код с занятия [class02.R](https://github.com/allatambov/RPROJ/blob/main/class02.r), [practice02-01.R](https://github.com/allatambov/RPROJ/blob/main/practice02-01.R), [practice02-02.R](https://github.com/allatambov/RPROJ/blob/main/practice02-02.R)
 * [Видеозапись](https://disk.yandex.ru/d/mgsCuayvX6Lg8w) занятия (по паролю)
 
 ### Итоги недель 1-2: теория
@@ -30,6 +30,10 @@
 * [Задания](https://disk.yandex.ru/d/tqGmCNJsfK5APg) (по паролю)
 * [Видеозапись](https://disk.yandex.ru/d/TADqIlT6bZWjxg) занятия (по паролю)
 
+### Итоги недели 3: теория
+
+* Теория в PDF [Управляющие конструкции.pdf](https://disk.yandex.ru/i/d8tmBmpz2yvuoA) (по паролю)
+
 ### Неделя 4. Работа с таблицами
 
 **Теория 4.** Разновидности таблиц. Базовые операции с датафреймами. Разбор практических заданий.<br>
@@ -38,9 +42,9 @@
 * Для приложения Shiny: `app.R` и данные ([папка](https://disk.yandex.ru/d/SQOQiwBKo0gKyQ))
 * [Видеозапись](https://disk.yandex.ru/d/gG58OMWlrUqbWg) занятия (по паролю)
 
-### Итоги недель 3-4: теория
+### Итоги недели 4: теория
 
-TBA
+* Теория в PDF [Базовая работа с датафреймами.pdf](https://disk.yandex.ru/i/0-XupVk9GBK6-Q) (по паролю)
 
 ### Неделя 5. Система библиотек tidyverse и визуализация с ggplot2
 
@@ -57,9 +61,10 @@ TBA
 * Код с занятия [class06.R](https://github.com/allatambov/RPROJ/blob/main/class06.r)
 * [Видеозапись](https://disk.yandex.ru/d/n89dyLRFkm4xAQ) занятия (по паролю)
 
-### Представление результатов: `stargazer` и Markdown
+### Итоги недель 5-6: теория
 
-TBA
+* Данные для теории + доп теории ([папка](https://disk.yandex.ru/d/ztNne9R8v_a2_g)) (по паролю)
+* Теория в PDF [Tidyverse-ggplot2.pdf](https://disk.yandex.ru/i/C0_DtdOuFh11Qw) (по паролю)
 
 ### Неделя 7. Классы в R: теоретическое отступление
 
@@ -67,4 +72,8 @@ TBA
 * Код с занятия [classes.R](https://github.com/allatambov/RPROJ/blob/main/classes.r)
 * [Видеозапись](https://disk.yandex.ru/d/G9HFud5OEpJGrw) занятия (по паролю)
 
+### Работа с данными: дополнительно
 
+* Работа с порядковыми и категориальными данными [Factors-and-forcats.pdf](https://disk.yandex.ru/i/XvTcFXaZ5z1Ybg) (по паролю)
+* Работа с пропущенными значениями (TBA)
+* Разведывательный анализ данных (TBA)
