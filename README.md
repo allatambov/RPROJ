@@ -33,6 +33,7 @@
 ### Итоги недели 3: теория
 
 * Теория в PDF [Управляющие конструкции.pdf](https://disk.yandex.ru/i/d8tmBmpz2yvuoA) (по паролю)
+* Теория в PDF [Intro-Shiny.pdf](https://disk.yandex.ru/i/nMbmBXQNA1NXow) (по паролю)
 
 ### Неделя 4. Работа с таблицами
 
