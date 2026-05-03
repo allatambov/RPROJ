@@ -67,6 +67,7 @@
 * Код с занятия (сравнения) [class06.R](https://github.com/allatambov/RPROJ/blob/main/class06.R)
 * Код с занятия (регрессия) [practice06.R](https://github.com/allatambov/RPROJ/blob/main/practice06.R)
 * [Видеозапись](https://disk.yandex.ru/d/n89dyLRFkm4xAQ) занятия (по паролю)
+* Про оформление выдач, stargazer и прочую красоту (TBA)
 
 ### Неделя 7. Классы в R: теоретическое отступление
 
@@ -76,8 +77,7 @@
 
 ### Работа с данными: дополнительно
 
-Данные ([папка](https://disk.yandex.ru/d/ztNne9R8v_a2_g)) (по паролю)
+Данные для всех материалов ниже – одна [папка](https://disk.yandex.ru/d/ztNne9R8v_a2_g) (по паролю)
 
 * Работа с порядковыми и категориальными данными [Factors-and-forcats.pdf](https://disk.yandex.ru/i/XvTcFXaZ5z1Ybg)
-* Работа с пропущенными значениями (TBA)
-* Разведывательный анализ данных (TBA)
+* Работа с пропущенными значениями [Missing-values.pdf](https://disk.yandex.ru/i/xUhja8p-2-rtkg)
