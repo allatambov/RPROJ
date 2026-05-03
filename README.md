@@ -64,7 +64,8 @@
 
 **Теория 6.** Сравнение двух и более групп (статистические критерии), проверка нормальности.<br>
 **Практикум 6.** Построение линейной модели и проверка ее качества.<br>
-* Код с занятия [class06.R](https://github.com/allatambov/RPROJ/blob/main/class06.r)
+* Код с занятия (сравнения) [class06.R](https://github.com/allatambov/RPROJ/blob/main/class06.R)
+* Код с занятия (регрессия) [practice06.R](https://github.com/allatambov/RPROJ/blob/main/practice06.R)
 * [Видеозапись](https://disk.yandex.ru/d/n89dyLRFkm4xAQ) занятия (по паролю)
 
 ### Неделя 7. Классы в R: теоретическое отступление
