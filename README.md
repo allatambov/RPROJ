@@ -72,7 +72,7 @@
 ### Неделя 7. Классы в R: теоретическое отступление
 
 **Теория 7.** Объекты и классы в R. Классы, атрибуты и методы. Наследование.
-* Код с занятия [classes.R](https://github.com/allatambov/RPROJ/blob/main/classes.r)
+* Код с занятия [classes.R](https://github.com/allatambov/RPROJ/blob/main/classes.R)
 * [Видеозапись](https://disk.yandex.ru/d/G9HFud5OEpJGrw) занятия (по паролю)
 
 ### Работа с данными: дополнительно
